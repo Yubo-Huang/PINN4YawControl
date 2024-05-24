@@ -56,5 +56,7 @@ nohup ./run_windfore.sh > WindFore.log 2>&1 &
 
 ### WindFore
 
-<div style="display: flex; justify-content: space-between;"><img src='Fig/pred.gif' alt="GIF 1" style="width: 30%;"><img src="Fig/label.gif" alt="GIF 2" style="width: 30%;"><img src="Fig/error.gif" alt="GIF 3" style="width: 30%;"></div>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![GIF 1](Fig/pred.gif)   | ![GIF 2](Fig/label.gif)  | ![GIF 3](Fig/error.gif)  |
 
