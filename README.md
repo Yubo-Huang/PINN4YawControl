@@ -50,8 +50,8 @@ nohup ./run_windfore.sh > WindFore.log 2>&1 &
 ### DeepALM
 
 1. Left: Normal Force Error
-2. Left: Tangential Force Error
-3. Left: Moment Torque Error
+2. Middle: Tangential Force Error
+3. Right: Moment Torque Error
 
 <div style="display: flex; justify-content: space-between;">
     <img src='Fig/NormalForceError.png' alt="Normal Force Error" title="Normal Force Error" style="width: 30%;">
@@ -62,8 +62,8 @@ nohup ./run_windfore.sh > WindFore.log 2>&1 &
 ### WindFore
 
 1. Left: Prediction via WindFore
-2. Left: Label from TurbSim
-3. Left: Prdiction Error
+2. Middle: Label from TurbSim
+3. Right: Prdiction Error
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
